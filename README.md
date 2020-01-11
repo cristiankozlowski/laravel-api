@@ -12,6 +12,8 @@ Instruções abaixo:
 - Criar o bando de dados e configurar no .env (com nome de exemplo laravel-api);
 - Executar as migrations com o comando: ```php artisan migrate```;
 - Criar dados fictícios (opcional, utilizado o componente faker), com o comando: ```php artisan db:seed```;
+- Rotas: 
+  ![](route-list.png)
 
 
 ## Funcionando
